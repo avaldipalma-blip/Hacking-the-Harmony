@@ -1,1 +1,1 @@
-# Hacking-the-Harmony
+# Hacking-The-Harmony
